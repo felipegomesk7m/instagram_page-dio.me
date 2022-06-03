@@ -2,8 +2,9 @@
 
 Réplica da interface do instagram para a plataforma da dio.me ministrado pela Gabriela Pinheiro.
 
-<ul> Novas features
+## Novas features
 
-<li> Adicionei links reais para meu instagram e um rodapé para meu github. </li>
+* Adicionei links reais para meu instagram e um rodapé para meu github.
 
-</ul>
+---
+
